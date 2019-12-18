@@ -1,9 +1,17 @@
-# INSAID-demo
-Hi Suchit
+# INSAID-demo# My Repo for latest projects @ INSAID 
 
-- Point 1
-- Point 2
+## List of all projects
 
-----
+- Finance
+- Accounts
+- Energy
+- Automation
 
-print ("hello world")
+
+| Finance  | ![AI](https://raw.githubusercontent.com/9845425303/INSAID-demo/master/images/MLUntitled%20Design.jpg "AI")  |
+| :------------: | :------------: |
+|   |  Accounts |
+|   Energy|  |
+|   | Automation  |
+
+
